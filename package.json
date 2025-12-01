@@ -1,0 +1,25 @@
+{
+  "name": "deepauth",
+  "version": "2.1.0",
+  "description": "DeepAuth is an intelligent, real-time fact-checking application that verifies claims by analyzing current news sources with advanced AI. It combines Google Gemini AI analysis with Brave Search API for comprehensive, up-to-date claim verification with confidence scoring.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backendv2 --include=dev && npm install --prefix client --include=dev && npm run build --prefix client",
+    "start": "npm run start --prefix backendv2"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriel-babalola/DeepAuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/adriel-babalola/DeepAuth/issues"
+  },
+  "homepage": "https://github.com/adriel-babalola/DeepAuth#readme"
+}
