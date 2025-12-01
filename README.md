@@ -20,7 +20,7 @@ With Nigerian elections approaching, misinformation spreads faster than ever on 
 
 ## 🚀 Try It Now
 
-**[🔗 Live Demo - https://bit.ly/deepauth](#)** 
+**[🔗 Live Demo - https://bit.ly/deepauth](https://bit.ly/deepauth)** 
 
 No login required. Works on any device. Completely free.
 
